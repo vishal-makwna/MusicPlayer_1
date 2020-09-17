@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="todo">TODO</string>
+    <string name="head">Enjoy your Music</string>
+    <string name="status">Status</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next Song Play</string>
+    <string name="volume">Volume</string>
+</resources>
